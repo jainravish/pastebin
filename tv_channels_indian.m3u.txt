@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:-1,IND - 8XM
+http://voxtv.dynns.com:8000/indian/indian/165
+#EXTINF:-1,IND - 9X  JALWA
+http://voxtv.dynns.com:8000/indian/indian/159
+#EXTINF:-1,IND - 9X JHAKASS
+http://voxtv.dynns.com:8000/indian/indian/158
+#EXTINF:-1,IND - 9X MUSIC
+http://voxtv.dynns.com:8000/indian/indian/157
+#EXTINF:-1,IND - AAJ TAK
+http://voxtv.dynns.com:8000/indian/indian/134
+#EXTINF:-1,IND - AASTHA BHAJAN
+http://voxtv.dynns.com:8000/indian/indian/167
+#EXTINF:-1,IND - AASTHA TV
+http://voxtv.dynns.com:8000/indian/indian/1123
+#EXTINF:-1,IND - ABP NEWS
+http://voxtv.dynns.com:8000/indian/indian/186
+#EXTINF:-1,AND PICTURE HD
+http://voxtv.dynns.com:8000/indian/indian/823
+#EXTINF:-1,IND - AND TV
+http://voxtv.dynns.com:8000/indian/indian/494
+#EXTINF:-1,AND TV HD
+http://voxtv.dynns.com:8000/indian/indian/141
+#EXTINF:-1,IND - ANIMAL PLANET
+http://voxtv.dynns.com:8000/indian/indian/143
+#EXTINF:-1,IND - B4U MOVIES
+http://voxtv.dynns.com:8000/indian/indian/140
+#EXTINF:-1,IND - B4U MUSIC
+http://voxtv.dynns.com:8000/indian/indian/156
+#EXTINF:-1,IND - BINDASS PLAY
+http://voxtv.dynns.com:8000/indian/indian/155
+#EXTINF:-1,IND - CARTOON NETWORK
+http://voxtv.dynns.com:8000/indian/indian/163
+#EXTINF:-1,CHANNEL V
+http://voxtv.dynns.com:8000/indian/indian/756
+#EXTINF:-1,IND - CNBC AWAZ
+http://voxtv.dynns.com:8000/indian/indian/1126
+#EXTINF:-1,IND - CNN IBN NEWS
+http://voxtv.dynns.com:8000/indian/indian/1129
+#EXTINF:-1,IND - COLORS
+http://voxtv.dynns.com:8000/indian/indian/121
+#EXTINF:-1,IND - COLORS APAC
+http://voxtv.dynns.com:8000/indian/indian/124
+#EXTINF:-1,IND - COLORS EUROPE
+http://voxtv.dynns.com:8000/indian/indian/123
+#EXTINF:-1,HD COLORS TV HD
+http://voxtv.dynns.com:8000/indian/indian/122
+#EXTINF:-1,IND - COLORS TV ME
+http://voxtv.dynns.com:8000/indian/indian/1131
+#EXTINF:-1,IND - COLORS TV UK
+http://voxtv.dynns.com:8000/indian/indian/1132
+#EXTINF:-1,IND - DD INDIA
+http://voxtv.dynns.com:8000/indian/indian/1133
+#EXTINF:-1,IND - DD NEWS
+http://voxtv.dynns.com:8000/indian/indian/1134
+#EXTINF:-1,IND - DESI BEATS
+http://voxtv.dynns.com:8000/indian/indian/1135
+#EXTINF:-1,IND - DISNEY
+http://voxtv.dynns.com:8000/indian/indian/144
+#EXTINF:-1,IND - E24
+http://voxtv.dynns.com:8000/indian/indian/1136
+#EXTINF:-1,IND - ENTER 10
+http://voxtv.dynns.com:8000/indian/indian/142
+#EXTINF:-1,IND - ET NOW
+http://voxtv.dynns.com:8000/indian/indian/1137
+#EXTINF:-1,IND - ETV BIHAR
+http://voxtv.dynns.com:8000/indian/indian/1138
+#EXTINF:-1,IND - ETV MP
+http://voxtv.dynns.com:8000/indian/indian/1139
+#EXTINF:-1,IND - ETV NOW
+http://voxtv.dynns.com:8000/indian/indian/497
+#EXTINF:-1,IND - ETV RAJASTHAN
+http://voxtv.dynns.com:8000/indian/indian/1140
+#EXTINF:-1,IND - ETV UP
+http://voxtv.dynns.com:8000/indian/indian/1141
+#EXTINF:-1,IND - ETV URDU
+http://voxtv.dynns.com:8000/indian/indian/1142
+#EXTINF:-1,IND - FOOD
+http://voxtv.dynns.com:8000/indian/indian/166
+#EXTINF:-1,IND - FOOD NETWORK
+http://voxtv.dynns.com:8000/indian/indian/491
+#EXTINF:-1,IND - IBN 7
+http://voxtv.dynns.com:8000/indian/indian/499
+#EXTINF:-1,IND - IBN LOKMAT
+http://voxtv.dynns.com:8000/indian/indian/498
+#EXTINF:-1,IND - INDIA TODAY
+http://voxtv.dynns.com:8000/indian/indian/496
+#EXTINF:-1,IND - INDIA TV
+http://voxtv.dynns.com:8000/indian/indian/184
+#EXTINF:-1,IND - LIFE OK
+http://voxtv.dynns.com:8000/indian/indian/135
+#EXTINF:-1,LIFE OK IND
+http://voxtv.dynns.com:8000/indian/indian/136
+#EXTINF:-1,IND - LIFE OK MENA
+http://voxtv.dynns.com:8000/indian/indian/1146
+#EXTINF:-1,IND - LIFE OK STAR
+http://voxtv.dynns.com:8000/indian/indian/1147
+#EXTINF:-1,IND - LIFE OK USA
+http://voxtv.dynns.com:8000/indian/indian/1148
+#EXTINF:-1,IND - LIVING FOOD
+http://voxtv.dynns.com:8000/indian/indian/99
+#EXTINF:-1,MTUNES HD
+http://voxtv.dynns.com:8000/indian/indian/154
+#EXTINF:-1,IND - MTV INDIA
+http://voxtv.dynns.com:8000/indian/indian/153
+#EXTINF:-1,IND - MUSIC INDIA
+http://voxtv.dynns.com:8000/indian/indian/152
+#EXTINF:-1,IND - MUSIC XPRESS
+http://voxtv.dynns.com:8000/indian/indian/151
+#EXTINF:-1,IND - ND TV PROFIT
+http://voxtv.dynns.com:8000/indian/indian/185
+#EXTINF:-1,IND - NDTV 24x7
+http://voxtv.dynns.com:8000/indian/indian/1149
+#EXTINF:-1,IND - NDTV PROFIT
+http://voxtv.dynns.com:8000/indian/indian/1150
+#EXTINF:-1,IND - NEWS 24
+http://voxtv.dynns.com:8000/indian/indian/1151
+#EXTINF:-1,IND - NEWS X
+http://voxtv.dynns.com:8000/indian/indian/1152
+#EXTINF:-1,IND - NEWS 9 ENG
+http://voxtv.dynns.com:8000/indian/indian/1153
+#EXTINF:-1,IND - PEACE TV
+http://voxtv.dynns.com:8000/indian/indian/145
+#EXTINF:-1,IND - POGO
+http://voxtv.dynns.com:8000/indian/indian/146
+#EXTINF:-1,IND - RISHTEY TV
+http://voxtv.dynns.com:8000/indian/indian/1172
+#EXTINF:-1,IND - RISHTEY EU
+http://voxtv.dynns.com:8000/indian/indian/1155
+#EXTINF:-1,IND - RISHTEY  UK
+http://voxtv.dynns.com:8000/indian/indian/139
+#EXTINF:-1,IND - RISHTEY
+http://voxtv.dynns.com:8000/indian/indian/138
+#EXTINF:-1,IND - RISHTEY ASIA
+http://voxtv.dynns.com:8000/indian/indian/1154
+#EXTINF:-1,IND - SAB TV
+http://voxtv.dynns.com:8000/indian/indian/130
+#EXTINF:-1,IND - SAB TV IND
+http://voxtv.dynns.com:8000/indian/indian/129
+#EXTINF:-1,IND - SAB TV UK
+http://voxtv.dynns.com:8000/indian/indian/481
+#EXTINF:-1,IND - SAHARA SAMAY
+http://voxtv.dynns.com:8000/indian/indian/1156
+#EXTINF:-1,IND - SAHARA SAMAY AALAMI
+http://voxtv.dynns.com:8000/indian/indian/1157
+#EXTINF:-1,IND - SAHARA SAMAY BIHAR
+http://voxtv.dynns.com:8000/indian/indian/1158
+#EXTINF:-1,IND - SAHIB TV
+http://voxtv.dynns.com:8000/indian/indian/1100
+#EXTINF:-1,IND - SET MAX
+http://voxtv.dynns.com:8000/indian/indian/125
+#EXTINF:-1,JIO/SONYMAXHD
+http://voxtv.dynns.com:8000/indian/indian/536
+#EXTINF:-1,IND - SET MAX UK
+http://voxtv.dynns.com:8000/indian/indian/484
+#EXTINF:-1,IND - SETMAX AUS
+http://voxtv.dynns.com:8000/indian/indian/1162
+#EXTINF:-1,IND - SONY MAX 2
+http://voxtv.dynns.com:8000/indian/indian/1163
+#EXTINF:-1,IND - SONY TV AUD
+http://voxtv.dynns.com:8000/indian/indian/128
+#EXTINF:-1,SONY TV HD
+http://voxtv.dynns.com:8000/indian/indian/127
+#EXTINF:-1,IND - SONY TV UK
+http://voxtv.dynns.com:8000/indian/indian/126
+#EXTINF:-1,STAR GOLD HD
+http://voxtv.dynns.com:8000/indian/indian/191
+#EXTINF:-1,IND - STAR GOLD IND
+http://voxtv.dynns.com:8000/indian/indian/133
+#EXTINF:-1,IND - STAR MOVIES
+http://voxtv.dynns.com:8000/indian/indian/137
+#EXTINF:-1,IND - STAR PLUS
+http://voxtv.dynns.com:8000/indian/indian/132
+#EXTINF:-1,STAR PLUS HD
+http://voxtv.dynns.com:8000/indian/indian/131
+#EXTINF:-1,IND - STAR PLUS IND
+http://voxtv.dynns.com:8000/indian/indian/188
+#EXTINF:-1,IND - STAR PLUS ME
+http://voxtv.dynns.com:8000/indian/indian/1164
+#EXTINF:-1,IND -  STAR PLUS  UK
+http://voxtv.dynns.com:8000/indian/indian/479
+#EXTINF:-1,IND - STAR PLUS USA
+http://voxtv.dynns.com:8000/indian/indian/480
+#EXTINF:-1,IND - SUDARSHAN NEWS
+http://voxtv.dynns.com:8000/indian/indian/1165
+#EXTINF:-1,IND - TIMES NOW
+http://voxtv.dynns.com:8000/indian/indian/187
+#EXTINF:-1,IND - UMP MOVIES
+http://voxtv.dynns.com:8000/indian/indian/485
+#EXTINF:-1,IND - UTV ACTION
+http://voxtv.dynns.com:8000/indian/indian/700
+#EXTINF:-1,IND - UTV BINDASS
+http://voxtv.dynns.com:8000/indian/indian/161
+#EXTINF:-1,IND - UTV MOVIES INTERNATIONAL
+http://voxtv.dynns.com:8000/indian/indian/160
+#EXTINF:-1,IND - ZEE ACTION
+http://voxtv.dynns.com:8000/indian/indian/112
+#EXTINF:-1,IND - ZEE ANMOL
+http://voxtv.dynns.com:8000/indian/indian/102
+#EXTINF:-1,IND - ZEE BOLLYWOOD
+http://voxtv.dynns.com:8000/indian/indian/100
+#EXTINF:-1,IND - ZEE BUSINESS
+http://voxtv.dynns.com:8000/indian/indian/116
+#EXTINF:-1,IND - ZEE CINEMA
+http://voxtv.dynns.com:8000/indian/indian/117
+#EXTINF:-1,IND - ZEE CINEMA APAC
+http://voxtv.dynns.com:8000/indian/indian/488
+#EXTINF:-1,ZEE CINEMA HD
+http://voxtv.dynns.com:8000/indian/indian/503
+#EXTINF:-1,IND - ZEE CINEMA ME
+http://voxtv.dynns.com:8000/indian/indian/1167
+#EXTINF:-1,IND - ZEE  CINEMA UK
+http://voxtv.dynns.com:8000/indian/indian/487
+#EXTINF:-1,IND - ZEE CLASSIC
+http://voxtv.dynns.com:8000/indian/indian/111
+#EXTINF:-1,IND - ZEE ETC BOLLYWOOD
+http://voxtv.dynns.com:8000/indian/indian/1168
+#EXTINF:-1,IND - ZEE KALINGA
+http://voxtv.dynns.com:8000/indian/indian/107
+#EXTINF:-1,IND - ZEE  KANNADA
+http://voxtv.dynns.com:8000/indian/indian/105
+#EXTINF:-1,ZEE LIVING HD
+http://voxtv.dynns.com:8000/indian/indian/120
+#EXTINF:-1,IND - ZEE MADYAPRADESH
+http://voxtv.dynns.com:8000/indian/indian/500
+#EXTINF:-1,IND - ZEE MARUDAHAR
+http://voxtv.dynns.com:8000/indian/indian/109
+#EXTINF:-1,IND - ZEE NEWS
+http://voxtv.dynns.com:8000/indian/indian/119
+#EXTINF:-1,IND - ZEE PURVAIYA
+http://voxtv.dynns.com:8000/indian/indian/108
+#EXTINF:-1,IND - ZEE RISHTAY
+http://voxtv.dynns.com:8000/indian/indian/501
+#EXTINF:-1,IND - ZEE SALAM
+http://voxtv.dynns.com:8000/indian/indian/110
+#EXTINF:-1,IND - ZEE SANGAM
+http://voxtv.dynns.com:8000/indian/indian/106
+#EXTINF:-1,IND - ZEE SMILE
+http://voxtv.dynns.com:8000/indian/indian/113
+#EXTINF:-1,IND - ZEE TALKIES
+http://voxtv.dynns.com:8000/indian/indian/101
+#EXTINF:-1,IND - ZEE TAMIL
+http://voxtv.dynns.com:8000/indian/indian/104
+#EXTINF:-1,IND - ZEE TELUGU
+http://voxtv.dynns.com:8000/indian/indian/103
+#EXTINF:-1,ZEE TV HD
+http://voxtv.dynns.com:8000/indian/indian/115
+#EXTINF:-1,IND - ZEE TV ME
+http://voxtv.dynns.com:8000/indian/indian/1169
+#EXTINF:-1,IND - ZEE  TV UK
+http://voxtv.dynns.com:8000/indian/indian/114
+#EXTINF:-1,IND - ZING
+http://voxtv.dynns.com:8000/indian/indian/150
+#EXTINF:-1,IND - ZING  UK
+http://voxtv.dynns.com:8000/indian/indian/493
+#EXTINF:-1,IND - ZOOM
+http://voxtv.dynns.com:8000/indian/indian/149
+#EXTINF:-1,IND - ZOOM UK
+http://voxtv.dynns.com:8000/indian/indian/492
+#EXTINF:-1,IND - MUSIC INDIA STREAM 2
+http://voxtv.dynns.com:8000/indian/indian/489
+#EXTINF:-1,IND - 9x Jalwa  Stream 2
+http://voxtv.dynns.com:8000/indian/indian/495
+#EXTINF:-1,9XM
+http://voxtv.dynns.com:8000/indian/indian/5307
+#EXTINF:-1,IND - NDTV
+http://voxtv.dynns.com:8000/indian/indian/147
+#EXTINF:-1,PB - AKAAL CHANNEL
+http://voxtv.dynns.com:8000/indian/indian/1111
+#EXTINF:-1,PB - AKKAL
+http://voxtv.dynns.com:8000/indian/indian/183
+#EXTINF:-1,PB - AONE MUSIC
+http://voxtv.dynns.com:8000/indian/indian/1112
+#EXTINF:-1,PB - BRIT ASIA
+http://voxtv.dynns.com:8000/indian/indian/169
+#EXTINF:-1,PB - CHAKDE TV
+http://voxtv.dynns.com:8000/indian/indian/1113
+#EXTINF:-1,PB - CHARDIKLA TIME TV
+http://voxtv.dynns.com:8000/indian/indian/178
+#EXTINF:-1,PB - DD PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/168
+#EXTINF:-1,PB - DESI CHANNEL
+http://voxtv.dynns.com:8000/indian/indian/1114
+#EXTINF:-1,PB - ETC PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/171
+#EXTINF:-1,PB - HAMDARD TV
+http://voxtv.dynns.com:8000/indian/indian/1115
+#EXTINF:-1,PB - JHANJAR HD
+http://voxtv.dynns.com:8000/indian/indian/1116
+#EXTINF:-1,PB - JUS ONE TV
+http://voxtv.dynns.com:8000/indian/indian/180
+#EXTINF:-1,PB - JUS PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/179
+#EXTINF:-1,PB - MH 1
+http://voxtv.dynns.com:8000/indian/indian/177
+#EXTINF:-1,PB - MH1 NEWS
+http://voxtv.dynns.com:8000/indian/indian/1117
+#EXTINF:-1,PB - MH1 SHARDDHA
+http://voxtv.dynns.com:8000/indian/indian/1118
+#EXTINF:-1,PB - PBN MUSIC
+http://voxtv.dynns.com:8000/indian/indian/1119
+#EXTINF:-1,PB - PTC CHAK DE
+http://voxtv.dynns.com:8000/indian/indian/173
+#EXTINF:-1,PB - PTC NEWS
+http://voxtv.dynns.com:8000/indian/indian/174
+#EXTINF:-1,PB - PTC PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/172
+#EXTINF:-1,PB - PUNJAB TV
+http://voxtv.dynns.com:8000/indian/indian/170
+#EXTINF:-1,PB - SANGAT TV
+http://voxtv.dynns.com:8000/indian/indian/182
+#EXTINF:-1,PB - SANJH TV
+http://voxtv.dynns.com:8000/indian/indian/1120
+#EXTINF:-1,PB - SIKH CHANNEL
+http://voxtv.dynns.com:8000/indian/indian/181
+#EXTINF:-1,PB - PB ZEE PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/118
+#EXTINF:-1,PB - ZEE PUNJABI HARYANA TV
+http://voxtv.dynns.com:8000/indian/indian/1121
+#EXTINF:-1,PB - 9X TASHAN
+http://voxtv.dynns.com:8000/indian/indian/175
+#EXTINF:-1,PB - AONE PUNJABI
+http://voxtv.dynns.com:8000/indian/indian/176
